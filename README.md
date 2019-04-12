@@ -1,7 +1,7 @@
-react-via-cep
+SIGAA-BOT :robot:
 =======
 
-Robô para carragar suas notas do sigaa
+Robô para carragar suas notas do sigaa.
 
 ## Configuração 
 
