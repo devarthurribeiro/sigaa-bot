@@ -1,0 +1,17 @@
+{
+  "name": "sigaa-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nota.js",
+  "scripts": {
+    "start": "node nota.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "puppeteer": "^1.8.0",
+    "puppeteer-core": "^1.8.0"
+  }
+}
